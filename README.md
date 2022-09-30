@@ -46,4 +46,4 @@ Udemy Web Development Bootcamp (2022)
 
 The Odin Project 
 - Rock, Paper, Scissors Game - July 2022: https://stalwart-blancmange-7ba347.netlify.app/
-- Etch A Sketch - October 2022 https://johnjoshuaramirez.github.io/etch-a-sketch/
+- Etch a Sketch - October 2022 - https://johnjoshuaramirez.github.io/etch-a-sketch/
