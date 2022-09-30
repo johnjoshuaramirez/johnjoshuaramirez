@@ -46,6 +46,4 @@ Udemy Web Development Bootcamp (2022)
 
 The Odin Project 
 - Rock, Paper, Scissors Game - July 2022: https://stalwart-blancmange-7ba347.netlify.app/
-
- Python 
- - Band Name Generator - https://github.com/johncanero/BandName-Generator 
+- Etch A Sketch - October 2022 https://johnjoshuaramirez.github.io/etch-a-sketch/
