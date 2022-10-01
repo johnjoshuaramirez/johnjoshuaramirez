@@ -45,5 +45,5 @@ Udemy Web Development Bootcamp (2022)
 - John Cañero Website - CV 2.0 - April 2022: https://johncanero.github.io/JamWebsite/
 
 HTML / CSS / JavaScript
-- The Odin Project - October 2022 - Calculator - https://johnjoshuaramirez.github.io/calculator/
-- The Odin Project - October 2022 - Etch a Sketch - https://johnjoshuaramirez.github.io/etch-a-sketch/
+- October 2022 - Calculator - https://johnjoshuaramirez.github.io/calculator/
+- October 2022 - Etch a Sketch - https://johnjoshuaramirez.github.io/etch-a-sketch/
