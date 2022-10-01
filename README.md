@@ -44,6 +44,6 @@ Udemy Web Development Bootcamp (2022)
 - John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/ 
 - John Cañero Website - CV 2.0 - April 2022: https://johncanero.github.io/JamWebsite/
 
-The Odin Project 
+HTML / CSS / JavaScript
 - Rock, Paper, Scissors Game - July 2022: https://stalwart-blancmange-7ba347.netlify.app/
-- Etch a Sketch - October 2022 - https://johnjoshuaramirez.github.io/etch-a-sketch/
+- The Odin Project - Etch a Sketch - October 2022 - https://johnjoshuaramirez.github.io/etch-a-sketch/
