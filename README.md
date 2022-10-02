@@ -17,7 +17,6 @@
 #### PROJECTS
 
 React js / Node js / Express js
-- Calculator - https/johnjoshuaramirez.github.io/calculator/
 - Etch a Sketch – https/johnjoshuaramirez.github.io/etch-a-sketch/
 
 React js / Ruby / Ruby on Rails
@@ -28,4 +27,6 @@ React js
 
 JavaScript
 - Landing Page – https/johnjoshuaramirez.github.io/landing-page/
+- Calculator - https://johnjoshuaramirez.github.io/calculator/
+- Etch a Sketch – https/johnjoshuaramirez.github.io/etch-a-sketch/
 - Rock Paper Scissors – https/johnjoshuaramirez.github.io/rock-paper-scissors/
