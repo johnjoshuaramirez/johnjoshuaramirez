@@ -16,16 +16,16 @@
 
 #### PROJECTS
 
-REACT / NODE  JS / EXPRESS JS
+React js / Node js / Express js
 - Calculator - https/johnjoshuaramirez.github.io/calculator/
 - Etch a Sketch – https/johnjoshuaramirez.github.io/etch-a-sketch/
 
-REACT / RUBY / RUBY ON RAILS
+React js / Ruby / Ruby on Rails
 - Admin Dashboard – https/johnjoshuaramirez.github.io/admin-dashboard/
 
-REACT
+React js
 - Recipes Site – https/johnjoshuaramirez.github.io/recipes-site/
 
-JAVASCRIPT
+JavaScript
 - Landing Page – https/johnjoshuaramirez.github.io/landing-page/
 - Rock Paper Scissors – https/johnjoshuaramirez.github.io/rock-paper-scissors/
