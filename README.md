@@ -33,7 +33,12 @@
 
 #### KNOWLEDGE BASE
 
-HTML
-CSS
-JavaScript
+-- HTML
+-- CSS
+-- JavaScript
+-- TypeScript
+-- React js
+-- Express js
+-- MongoDB
+-- PostgreSQL
 
