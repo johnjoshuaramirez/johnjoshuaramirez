@@ -16,10 +16,10 @@
 
 #### PROJECTS
 
-React js / TypeScript / Node js / Express js
+React js / Node js / Express js
 - Etch a Sketch – https//johnjoshuaramirez.github.io/etch-a-sketch/
 
-React js / TypeScript / Ruby / Ruby on Rails
+React js / Ruby / Ruby on Rails
 - Admin Dashboard – https//johnjoshuaramirez.github.io/admin-dashboard/
 
 React js
