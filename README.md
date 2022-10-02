@@ -30,3 +30,11 @@ JavaScript
 - Calculator - https://johnjoshuaramirez.github.io/calculator/
 - Etch a Sketch – https://johnjoshuaramirez.github.io/etch-a-sketch/
 - Rock Paper Scissors – https//johnjoshuaramirez.github.io/rock-paper-scissors/
+- 
+## Below is a codeblock with javascript - with syntax highlighting
+
+```javascript
+const myFunction = () => {
+    console.log("This is my function");
+}
+```
