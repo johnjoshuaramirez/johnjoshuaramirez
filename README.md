@@ -16,34 +16,16 @@
 
 #### PROJECTS
 
-React / Next JS Projects - Scrimba (2022)
-- Travel Journal - September 2022 - https://travel-journal-johncanero.vercel.app/
-- AirBnb Clone - September 2022 - https://airbnb-clone-by-johncanero.vercel.app/
-- Digital Business Card - August 2022 - https://genuine-conkies-8e82b0.netlify.app/
-- React JS Website - August 2022 - https://helpful-pika-bad6ad.netlify.app/
+REACT / NODE  JS / EXPRESS JS
+- CALCULATOR - https/johnjoshuaramirez.github.io/calculator/
+- ETCH A SKETCH – https/johnjoshuaramirez.github.io/etch-a-sketch/
 
-FrontEnd Mentor (2022)
-- Product Review Component - September 2022 - https://product-perfume-card-by-johncanero.vercel.app/
-- Manage Landing Page - September 2022 - https://splendorous-cassata-a96886.netlify.app/
+REACT / RUBY / RUBY ON RAILS
+- ADMIN DASHBOARD – https/johnjoshuaramirez.github.io/admin-dashboard/
 
-Udemy Web Development Bootcamp (2022)
-- My Contacts: Football Icons - August 2022: https://my-contacts-by-johncanero.vercel.app/
-- Emojipedia - August 2022: https://emojipedia-by-johncanero.vercel.app/
-- Number Adder - August 2022 - https://number-state-by-johncanero.vercel.app/
-- To Do List Project - August 2022 - https://to-do-list-ten-by-johncanero.vercel.app/
-- Keeper App Project - August 2022 - https://johncanero.github.io/keeper-app/
-- Get Time - August 2022 - https://get-time-state-by-johncanero.vercel.app/
-- Hello Welcome - August 2022 - https://hello-welcome-state-by-johncanero.vercel.app/
-- Hello Event - August 2022 - https://hello-event-handling-johncanero.vercel.app/
-- Login Flow - August 2022: https://fanciful-paprenjak-aeb3b6.netlify.app/
-- Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
-- El Clasico - June 2022: https://johncanero.github.io/ElClasico/
-- Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
+REACT
+- RECIPES SITE –  https/johnjoshuaramirez.github.io/recipes-site/
 
-2022 
-- John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/ 
-- John Cañero Website - CV 2.0 - April 2022: https://johncanero.github.io/JamWebsite/
-
-HTML / CSS / JavaScript
-- October 2022 - Calculator - https://johnjoshuaramirez.github.io/calculator/
-- October 2022 - Etch a Sketch - https://johnjoshuaramirez.github.io/etch-a-sketch/
+JAVASCRIPT
+- LANDING PAGE  –  https/johnjoshuaramirez.github.io/landing-page/
+- ROCK PAPER SCISSORS  –  https/johnjoshuaramirez.github.io/rock-paper-scissors/
