@@ -16,25 +16,17 @@
 
 #### PROJECTS
 
-React js / Node js / Express js
+## React js / Node js / Express js
 - Etch a Sketch – https//johnjoshuaramirez.github.io/etch-a-sketch/
 
-React js / Ruby / Ruby on Rails
+## React js / Ruby / Ruby on Rails
 - Admin Dashboard – https//johnjoshuaramirez.github.io/admin-dashboard/
 
-React js
+## React js
 - Recipes Site – https//johnjoshuaramirez.github.io/recipes-site/
 
-JavaScript
+## JavaScript
 - Landing Page – https://johnjoshuaramirez.github.io/landing-page/
 - Calculator - https://johnjoshuaramirez.github.io/calculator/
 - Etch a Sketch – https://johnjoshuaramirez.github.io/etch-a-sketch/
 - Rock Paper Scissors – https//johnjoshuaramirez.github.io/rock-paper-scissors/
-- 
-## Below is a codeblock with javascript - with syntax highlighting
-
-```javascript
-const myFunction = () => {
-    console.log("This is my function");
-}
-```
