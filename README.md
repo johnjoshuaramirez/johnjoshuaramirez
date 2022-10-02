@@ -36,11 +36,4 @@
 HTML
 CSS
 JavaScript
-TypeScript
-React js
-Express js
-Ruby
-Ruby on Rails
-MongoDB
-PostgreSQL
-Ruby on Rails
+
