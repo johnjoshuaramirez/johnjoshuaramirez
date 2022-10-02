@@ -17,16 +17,16 @@
 #### PROJECTS
 
 React js / Node js / Express js
-- Etch a Sketch – https/johnjoshuaramirez.github.io/etch-a-sketch/
+- Etch a Sketch – https//:johnjoshuaramirez.github.io/etch-a-sketch/
 
 React js / Ruby / Ruby on Rails
-- Admin Dashboard – https/johnjoshuaramirez.github.io/admin-dashboard/
+- Admin Dashboard – https//:johnjoshuaramirez.github.io/admin-dashboard/
 
 React js
-- Recipes Site – https/johnjoshuaramirez.github.io/recipes-site/
+- Recipes Site – https//:johnjoshuaramirez.github.io/recipes-site/
 
 JavaScript
-- Landing Page – https/johnjoshuaramirez.github.io/landing-page/
+- Landing Page – https://johnjoshuaramirez.github.io/landing-page/
 - Calculator - https://johnjoshuaramirez.github.io/calculator/
-- Etch a Sketch – https/johnjoshuaramirez.github.io/etch-a-sketch/
+- Etch a Sketch – https://johnjoshuaramirez.github.io/etch-a-sketch/
 - Rock Paper Scissors – https/johnjoshuaramirez.github.io/rock-paper-scissors/
