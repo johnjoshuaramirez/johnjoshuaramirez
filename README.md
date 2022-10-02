@@ -17,15 +17,15 @@
 #### PROJECTS
 
 REACT / NODE  JS / EXPRESS JS
-- CALCULATOR - https/johnjoshuaramirez.github.io/calculator/
-- ETCH A SKETCH – https/johnjoshuaramirez.github.io/etch-a-sketch/
+- Calculator - https/johnjoshuaramirez.github.io/calculator/
+- Etch a Sketch – https/johnjoshuaramirez.github.io/etch-a-sketch/
 
 REACT / RUBY / RUBY ON RAILS
-- ADMIN DASHBOARD – https/johnjoshuaramirez.github.io/admin-dashboard/
+- Admin Dashboard – https/johnjoshuaramirez.github.io/admin-dashboard/
 
 REACT
-- RECIPES SITE –  https/johnjoshuaramirez.github.io/recipes-site/
+- Recipes Site – https/johnjoshuaramirez.github.io/recipes-site/
 
 JAVASCRIPT
-- LANDING PAGE  –  https/johnjoshuaramirez.github.io/landing-page/
-- ROCK PAPER SCISSORS  –  https/johnjoshuaramirez.github.io/rock-paper-scissors/
+- Landing Page – https/johnjoshuaramirez.github.io/landing-page/
+- Rock Paper Scissors – https/johnjoshuaramirez.github.io/rock-paper-scissors/
