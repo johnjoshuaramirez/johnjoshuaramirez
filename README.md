@@ -26,7 +26,8 @@
 - Recipes Site – https//johnjoshuaramirez.github.io/recipes-site/
 
 ##### JavaScript
-- Landing Page – https://johnjoshuaramirez.github.io/landing-page/
+- Signup Form - https://johnjoshuaramirez.github.io/signup-form/
 - Calculator - https://johnjoshuaramirez.github.io/calculator/
 - Etch a Sketch – https://johnjoshuaramirez.github.io/etch-a-sketch/
 - Rock Paper Scissors – https//johnjoshuaramirez.github.io/rock-paper-scissors/
+- Landing Page – https://johnjoshuaramirez.github.io/landing-page/
