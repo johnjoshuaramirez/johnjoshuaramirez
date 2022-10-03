@@ -30,8 +30,3 @@
 - Calculator - https://johnjoshuaramirez.github.io/calculator/
 - Etch a Sketch – https://johnjoshuaramirez.github.io/etch-a-sketch/
 - Rock Paper Scissors – https//johnjoshuaramirez.github.io/rock-paper-scissors/
-
-#### KNOWLEDGE BASE
-- HTML  
-- CSS  
-- JavaScript
