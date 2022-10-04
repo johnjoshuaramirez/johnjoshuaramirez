@@ -27,7 +27,7 @@
 - Fifth Project - Calculator [HTML | CSS | JavaScript]  
 - Sixth Project - Sign-up Form [HTML | CSS | JavaScript]  
 
-#### Fullstack Javascript Path
+#### Full Stack Javascript Path
 - Seventh Project - Admin Dashboard [HTML | CSS | JavaScript]
 - Eighth Project - Library [HTML | CSS | JavaScript + objects]
 - Ninth Project - Tic Tac Toe [HTML | CSS | JavaScript + Factory Functions + The Module Pattern]
@@ -39,6 +39,21 @@
 - Fifteenth Project - Memory Card [HTML | SASS | JavaScript + React]
 - Sixteenth Project - Shopping Cart [HTML | SASS | JavaScript + React]
 - Seventeenth Project - Where's Waldo [HTML | SASS | TypeScript + React | Firebase]
+
+#### Full Stack Ruby on Rails Path
+
+- Seventh Project - Admin Dashboard [HTML | CSS | JavaScript]
+- Eighth Project - Library [HTML | CSS | JavaScript + objects]
+- Ninth Project - Tic Tac Toe [HTML | CSS | JavaScript + Factory Functions + The Module Pattern]
+- Tenth Project - Restaurant Page [HTML | CSS | JavaScript + ES6 Modules + Webpack]
+- Eleventh Project - Todo List [HTML | CSS | JavaScript + ES6 Modules + Webpack]
+- Twelfth Project - Weather App [HTML | CSS | JavaScript + Webpack + async API]
+- Thirteenth Project - Battleship game [HTML | CSS | JavaScript + Webpack + TDD with Jest]
+- Fourteenth Project - CV Application [HTML | CSS | JavaScript + React]
+- Fifteenth Project - Memory Card [HTML | SASS | JavaScript + React]
+- Sixteenth Project - Shopping Cart [HTML | SASS | JavaScript + React]
+- Seventeenth Project - Where's Waldo [HTML | SASS | TypeScript + React | Firebase]
+
 
 ##### React js / Node js / Express js
 - Etch a Sketch – https//johnjoshuaramirez.github.io/etch-a-sketch/
