@@ -17,9 +17,6 @@
 #### PROJECTS
 
 #### The Odin Project
-
-#### Foundations
-
 - <a href="https://github.com/IlyaEru/odin-recipes">01 - Recipes</a> [HTML]  
 - 02 - Landing Page [HTML | CSS + flexbox]  
 - 03 - Rock Paper Scissors [HTML | CSS | JavaScript]  
@@ -39,9 +36,6 @@
 - 15 - Memory Card [HTML | SASS | JavaScript + React]
 - 16 - Shopping Cart [HTML | SASS | JavaScript + React]
 - 17 - Where's Waldo [HTML | SASS | TypeScript + React | Firebase]
-
-#### Full Stack Ruby on Rails Path
-
 - 18 - Admin Dashboard [HTML | CSS | JavaScript]
 - 19 - Library [HTML | CSS | JavaScript + objects]
 - 20 - Tic Tac Toe [HTML | CSS | JavaScript + Factory Functions + The Module Pattern]
