@@ -18,7 +18,7 @@
 
 #### The Odin Project
 
-- First Project - Recipes [HTML]  
+- <a href="https://github.com/IlyaEru/odin-recipes">First Project - Recipes</a> [HTML]  
 - Second Project - Landing Page [HTML | CSS + flexbox]  
 - Third Project - Rock Paper Scissors [HTML | CSS | JavaScript]  
 - Fourth Project - Etch-a-Sketch [HTML | CSS | Basic JavaScript + events]  
