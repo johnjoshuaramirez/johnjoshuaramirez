@@ -18,12 +18,16 @@
 
 #### The Odin Project
 
-- <a href="https://github.com/IlyaEru/odin-recipes">First Project - Recipes</a> [HTML]  
+#### Foundations
+
+- <a href="https://github.com/IlyaEru/odin-recipes">01 - Recipes</a> [HTML]  
 - Second Project - Landing Page [HTML | CSS + flexbox]  
 - Third Project - Rock Paper Scissors [HTML | CSS | JavaScript]  
 - Fourth Project - Etch-a-Sketch [HTML | CSS | Basic JavaScript + events]  
 - Fifth Project - Calculator [HTML | CSS | JavaScript]  
 - Sixth Project - Sign-up Form [HTML | CSS | JavaScript]  
+
+#### Fullstack Javascript Path
 - Seventh Project - Admin Dashboard [HTML | CSS | JavaScript]
 - Eighth Project - Library [HTML | CSS | JavaScript + objects]
 - Ninth Project - Tic Tac Toe [HTML | CSS | JavaScript + Factory Functions + The Module Pattern]
