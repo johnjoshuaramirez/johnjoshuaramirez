@@ -18,12 +18,12 @@
 
 #### The Odin Project
 
-First Project - Recipes [HTML]
-Second Project - Landing Page [HTML | CSS + flexbox]
-Third Project - Rock Paper Scissors [HTML | CSS | JavaScript]
-Fourth Project - Etch-a-Sketch [HTML | CSS | Basic JavaScript + events]
-Fifth Project - Calculator [HTML | CSS | JavaScript]
-Sixth Project - Sign-up Form [HTML | CSS | JavaScript]
+First Project - Recipes [HTML]  
+Second Project - Landing Page [HTML | CSS + flexbox]  
+Third Project - Rock Paper Scissors [HTML | CSS | JavaScript]  
+Fourth Project - Etch-a-Sketch [HTML | CSS | Basic JavaScript + events]  
+Fifth Project - Calculator [HTML | CSS | JavaScript]  
+Sixth Project - Sign-up Form [HTML | CSS | JavaScript]  
 Seventh Project - Admin Dashboard [HTML | CSS | JavaScript]
 Eighth Project - Library [HTML | CSS | JavaScript + objects]
 Ninth Project - Tic Tac Toe [HTML | CSS | JavaScript + Factory Functions + The Module Pattern]
