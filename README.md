@@ -22,9 +22,7 @@
 - 03 - Rock Paper Scissors [HTML | CSS | JavaScript]  
 - 04 - Etch-a-Sketch [HTML | CSS | Basic JavaScript + events]  
 - 05 - Calculator [HTML | CSS | JavaScript]  
-- 06 - Sign-up Form [HTML | CSS | JavaScript]  
-
-#### Full Stack Javascript Path
+- 06 - Sign-up Form [HTML | CSS | JavaScript]
 - 07 - Admin Dashboard [HTML | CSS | JavaScript]
 - 08 - Library [HTML | CSS | JavaScript + objects]
 - 09 - Tic Tac Toe [HTML | CSS | JavaScript + Factory Functions + The Module Pattern]
