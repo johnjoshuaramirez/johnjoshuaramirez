@@ -24,6 +24,9 @@
 - 05 - Calculator [HTML | CSS | JavaScript]  
 - 06 - Sign-up Form [HTML | CSS | JavaScript]
 - 07 - Admin Dashboard [HTML | CSS | JavaScript]
+
+# TBF
+
 - 08 - Library [HTML | CSS | JavaScript + objects]
 - 09 - Tic Tac Toe [HTML | CSS | JavaScript + Factory Functions + The Module Pattern]
 - 10 - Restaurant Page [HTML | CSS | JavaScript + ES6 Modules + Webpack]
