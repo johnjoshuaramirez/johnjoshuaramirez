@@ -23,7 +23,7 @@
 - 04 - Etch-a-Sketch [HTML | CSS | Basic JavaScript + events]  
 - 05 - Calculator [HTML | CSS | JavaScript]  
 - 06 - Sign-up Form [HTML | CSS | JavaScript]
-- 07 - Admin Dashboard [HTML | CSS | JavaScript]
+- <a href="https://johnjoshuaramirez.github.io/admin-dashboard/">07 - Admin Dashboard</a> [HTML | CSS | JavaScript]
 
 # TBF
 
