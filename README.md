@@ -24,3 +24,4 @@
 - 05 - Calculator [HTML | CSS | JavaScript]  
 - 06 - Sign-up Form [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/admin-dashboard/">07 - Admin Dashboard</a> [HTML | CSS | JavaScript]
+- <a href="https://https://johnjoshuaramirez.github.io/book-list/">08 - Book List</a> [HTML | CSS | JavaScript]
