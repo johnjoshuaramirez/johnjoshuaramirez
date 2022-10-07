@@ -17,12 +17,12 @@
 #### PROJECTS
 
 #### The Odin Project
-- <a href="https://github.com/IlyaEru/odin-recipes">01 - Recipes</a> [HTML]  
-- 02 - Landing Page [HTML | CSS + flexbox]  
+- <a href="https://johnjoshuaramirez.github.io/my-recipes/">01 - Recipes</a> [HTML]  
+- <a href="https://johnjoshuaramirez.github.io/landing-page/">04 - Landing Page</a> [HTML | CSS | JavaScript]
 - 03 - Rock Paper Scissors [HTML | CSS | JavaScript]  
-- 04 - Etch-a-Sketch [HTML | CSS | Basic JavaScript + events]  
-- 05 - Calculator [HTML | CSS | JavaScript]  
-- 06 - Sign-up Form [HTML | CSS | JavaScript]
+- <a href="https://johnjoshuaramirez.github.io/signup-form/">04 - Etch-a-Sketch</a> [HTML | CSS | JavaScript]
+- <a href="https://johnjoshuaramirez.github.io/calculator/">05 - Calculator</a> [HTML | CSS | JavaScript]
+- <a href="https://johnjoshuaramirez.github.io/signup-form/">06 - Signup Form</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/admin-dashboard/">07 - Admin Dashboard</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/book-list/">08 - Book List</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">09 - Tic-Tac-Toe</a> [HTML | CSS | JavaScript]
