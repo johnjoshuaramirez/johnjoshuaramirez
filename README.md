@@ -25,5 +25,5 @@
 - <a href="https://johnjoshuaramirez.github.io/signup-form/">06 - Signup Form</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/admin-dashboard/">07 - Admin Dashboard</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/book-list/">08 - Book List</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">09 - Tic-Tac-Toe Simple</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">10 - Tic-Tac-Toe Advanced</a> [HTML | CSS | JavaScript]
+- <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">09 - Tic-Tac-Toe - Simple Version</a> [HTML | CSS | JavaScript]
+- <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">10 - Tic-Tac-Toe Advanced Version</a> [HTML | CSS | JavaScript]
