@@ -28,4 +28,4 @@
 - <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">09 - Tic-Tac-Toe</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/tic-tac-toe-advanced-version/">10 - Tic-Tac-Toe - Advanced Version</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/restaurant-page/">11 - Restaurant Page</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/to-do-list/">12 - To Do List [HTML | CSS | JavaScript]
+- <a href="https://johnjoshuaramirez.github.io/to-do-list/"> 12 - To Do List</a> [HTML | CSS | JavaScript]
