@@ -35,5 +35,5 @@
 #### UI
 - <a href="https://johnjoshuaramirez.github.io/ui-card/">01 - ui-card</a> [HTML | CSS ]
 - <a href="https://johnjoshuaramirez.github.io/ui-header/">02 - ui-header</a> [HTML | CSS | JS]
-- <a href="https://johnjoshuaramirez.github.io/ui-information/">03 - ui-card</a> [HTML | CSS ]
+- <a href="https://johnjoshuaramirez.github.io/ui-information/">03 - ui-information</a> [HTML | CSS ]
 
