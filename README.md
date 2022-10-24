@@ -37,3 +37,4 @@
 - <a href="https://johnjoshuaramirez.github.io/ui-header/">02 - ui-header</a> [HTML | CSS | JS]
 - <a href="https://johnjoshuaramirez.github.io/ui-information/">03 - ui-information</a> [HTML | CSS ]
 - <a href="https://johnjoshuaramirez.github.io/ui-modal/">04 - ui-modal</a> [HTML | CSS ]
+- <a href="https://johnjoshuaramirez.github.io/ui-layout/">05 - ui-layout</a> [HTML | CSS ]
