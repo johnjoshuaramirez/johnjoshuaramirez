@@ -38,3 +38,4 @@
 - <a href="https://johnjoshuaramirez.github.io/ui-information/">03 - ui-information</a> [HTML | CSS ]
 - <a href="https://johnjoshuaramirez.github.io/ui-modal/">04 - ui-modal</a> [HTML | CSS ]
 - <a href="https://johnjoshuaramirez.github.io/ui-layout/">05 - ui-layout</a> [HTML | CSS ]
+- <a href="https://johnjoshuaramirez.github.io/ui-page/">06 - ui-page</a> [HTML | CSS ]
