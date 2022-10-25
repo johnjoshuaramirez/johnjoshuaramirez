@@ -19,7 +19,7 @@
 #### The Odin Project
 - <a href="https://johnjoshuaramirez.github.io/odin-recipes/">01 - odin-recipes</a> [HTML | CSS ]
 - <a href="https://johnjoshuaramirez.github.io/ui-library/">02 - ui-library</a> [HTML | CSS | JS]
-- <a href="https://johnjoshuaramirez.github.io/landing-page/">04 - Landing Page</a> [HTML | CSS | JavaScript]
+- <a href="https://johnjoshuaramirez.github.io/landing-page/">04 - landing-page</a> [HTML | CSS | JavaScript]
 - 03 - Rock Paper Scissors [HTML | CSS | JavaScript]  
 - <a href="https://johnjoshuaramirez.github.io/signup-form/">04 - Etch-a-Sketch</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/calculator/">05 - Calculator</a> [HTML | CSS | JavaScript]
