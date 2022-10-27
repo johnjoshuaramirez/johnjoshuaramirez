@@ -26,7 +26,6 @@
 - <a href="https://johnjoshuaramirez.github.io/admin-dashboard/">07 - Admin Dashboard</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/book-list/">08 - Book List</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">09 - Tic-Tac-Toe</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/tic-tac-toe-advanced-version/">10 - Tic-Tac-Toe - Advanced Version</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/restaurant-page/">11 - Restaurant Page</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/to-do-list/"> 12 - To-do List</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/weather-app/"> 13 - Weather App </a> [HTML | CSS | JavaScript]
