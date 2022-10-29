@@ -20,7 +20,7 @@
 - <a href="https://johnjoshuaramirez.github.io/odin-recipes/">01 - odin-recipes</a> [HTML | CSS ]
 - <a href="https://johnjoshuaramirez.github.io/landing-page/">02 - landing-page</a> [HTML | CSS ]
 - <a href="https://johnjoshuaramirez.github.io/rock-paper-scissors/">03 - rock-paper-scissors</a> [HTML | CSS | JavaScript]  
-- <a href="https://johnjoshuaramirez.github.io/signup-form/">04 - Etch-a-Sketch</a> [HTML | CSS | JavaScript]
+- <a href="https://johnjoshuaramirez.github.io/etch-a-sketch/">04 - etch-a-sketch</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/calculator/">05 - Calculator</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/signup-form/">06 - Signup Form</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/admin-dashboard/">07 - Admin Dashboard</a> [HTML | CSS | JavaScript]
