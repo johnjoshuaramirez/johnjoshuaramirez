@@ -22,7 +22,7 @@
 - <a href="https://johnjoshuaramirez.github.io/rock-paper-scissors/">03 - rock-paper-scissors</a> [HTML | CSS | JavaScript]  
 - <a href="https://johnjoshuaramirez.github.io/etch-a-sketch/">04 - etch-a-sketch</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/calculator/">05 - calculator</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/signup-form/">06 - Signup Form</a> [HTML | CSS | JavaScript]
+- <a href="https://johnjoshuaramirez.github.io/signup-form/">06 - sign-up-form</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/admin-dashboard/">07 - Admin Dashboard</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/book-list/">08 - Book List</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">09 - Tic-Tac-Toe</a> [HTML | CSS | JavaScript]
