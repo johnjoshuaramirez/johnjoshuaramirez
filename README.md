@@ -24,7 +24,7 @@
 - <a href="https://johnjoshuaramirez.github.io/calculator/">05 - calculator</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/sign-up-form/">06 - sign-up-form</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/admin-dashboard/">07 - admin-dashboard</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/book-list/">08 - book-list</a> [HTML | CSS | JavaScript]
+- <a href="https://johnjoshuaramirez.github.io/library/">08 - library</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">09 - tic-tac-toe</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/restaurant-page/">11 - restaurant-page</a> [HTML | CSS | JavaScript]
 - <a href="https://johnjoshuaramirez.github.io/to-do-list/"> 12 - to-do-list</a> [HTML | CSS | JavaScript]
