@@ -17,15 +17,15 @@
 #### PROJECTS
 
 #### The Odin Project
-- <a href="https://johnjoshuaramirez.github.io/odin-recipes/">01 - odin-recipes</a> [HTML | CSS ]
-- <a href="https://johnjoshuaramirez.github.io/landing-page/">02 - landing-page</a> [HTML | CSS ]
-- <a href="https://johnjoshuaramirez.github.io/rock-paper-scissors/">03 - rock-paper-scissors</a> [HTML | CSS | JavaScript]  
-- <a href="https://johnjoshuaramirez.github.io/etch-a-sketch/">04 - etch-a-sketch</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/calculator/">05 - calculator</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/sign-up-form/">06 - sign-up-form</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/admin-dashboard/">07 - admin-dashboard</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/library/">08 - library</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">09 - tic-tac-toe</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/restaurant-page/">10 - restaurant-page</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/to-do-list/"> 11 - to-do-list</a> [HTML | CSS | JavaScript]
-- <a href="https://johnjoshuaramirez.github.io/weather-app/"> 12 - weather-app</a> [HTML | CSS | JavaScript]
+- <a href="https://johnjoshuaramirez.github.io/odin-recipes/">01 - odin-recipes</a>
+- <a href="https://johnjoshuaramirez.github.io/landing-page/">02 - landing-page</a>
+- <a href="https://johnjoshuaramirez.github.io/rock-paper-scissors/">03 - rock-paper-scissors</a>
+- <a href="https://johnjoshuaramirez.github.io/etch-a-sketch/">04 - etch-a-sketch</a>
+- <a href="https://johnjoshuaramirez.github.io/calculator/">05 - calculator</a>
+- <a href="https://johnjoshuaramirez.github.io/sign-up-form/">06 - sign-up-form</a>
+- <a href="https://johnjoshuaramirez.github.io/admin-dashboard/">07 - admin-dashboard</a>
+- <a href="https://johnjoshuaramirez.github.io/library/">08 - library</a>
+- <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">09 - tic-tac-toe</a>
+- <a href="https://johnjoshuaramirez.github.io/restaurant-page/">10 - restaurant-page</a>
+- <a href="https://johnjoshuaramirez.github.io/to-do-list/"> 11 - to-do-list</a>
+- <a href="https://johnjoshuaramirez.github.io/weather-app/"> 12 - weather-app</a>
