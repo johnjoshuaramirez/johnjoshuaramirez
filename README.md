@@ -29,4 +29,6 @@
 - <a href="https://johnjoshuaramirez.github.io/to-do-list/"> 11 - to-do-list</a>
 - <a href="https://johnjoshuaramirez.github.io/weather-app/"> 12 - weather-app</a>
 - <a href="https://johnjoshuaramirez.github.io/cv-project/"> 13 - cv-builder</a>
-- <a href="https://johnjoshuaramirez.github.io/memory-card/"> 13 - memory-card</a>
+- <a href="https://johnjoshuaramirez.github.io/memory-card/"> 14 - memory-card</a>
+- <a href="https://johnjoshuaramirez.github.io/shopping-cart/"> 15 - shopping-cart</a>
+
