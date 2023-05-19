@@ -23,7 +23,7 @@
 - <a href="https://johnjoshuaramirez.github.io/calculator/">05 - calculator</a>
 - <a href="https://johnjoshuaramirez.github.io/sign-up-form/">06 - sign-up-form</a>
 - <a href="https://johnjoshuaramirez.github.io/admin-dashboard/">07 - admin-dashboard</a>
-- <a href="https://johnjoshuaramirez.github.io/library/">08 - library</a>
+- <a href="https://library-d5dec.web.app/">08 - library</a>
 - <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">09 - tic-tac-toe</a>
 - <a href="https://johnjoshuaramirez.github.io/restaurant-page/">10 - restaurant-page</a>
 - <a href="https://johnjoshuaramirez.github.io/to-do-list/"> 11 - to-do-list</a>
