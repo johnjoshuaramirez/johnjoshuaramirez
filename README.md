@@ -7,7 +7,7 @@
 
 #### NOW
 
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
+- ✨ Crafted last [Laracon Online](link) website;
 - 🇵🇹 Planing the "Tuga-Co-Op";
 - 🍑 What about this?
 
