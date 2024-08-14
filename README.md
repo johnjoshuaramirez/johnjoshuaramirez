@@ -3,7 +3,7 @@
 -->
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Bohol, Philippines.
+#### I'm a Full-Stack Developer based in Bohol, Philippines.
 
 #### NOW
 
