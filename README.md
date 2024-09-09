@@ -13,10 +13,10 @@
 #### PROJECTS
 
 ##### JAVASCRIPT
-- <a href="https://johnjoshuaramirez.github.io/rock-paper-scissors/">03 - rock-paper-scissors</a>
-- <a href="https://johnjoshuaramirez.github.io/etch-a-sketch/">04 - etch-a-sketch</a>
-- <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">09 - tic-tac-toe</a>
-- <a href="https://johnjoshuaramirez.github.io/memory-card/"> 14 - memory-card</a>
+- <a href="https://johnjoshuaramirez.github.io/rock-paper-scissors/">rock-paper-scissors</a>
+- <a href="https://johnjoshuaramirez.github.io/etch-a-sketch/">etch-a-sketch</a>
+- <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">tic-tac-toe</a>
+- <a href="https://johnjoshuaramirez.github.io/memory-card/">memory-card</a>
 
 ##### FULLSTACK
 
