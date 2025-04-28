@@ -16,7 +16,7 @@
 - <a href="https://johnjoshuaramirez.github.io/etch-a-sketch/">etch-a-sketch</a>
 - <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">tic-tac-toe</a>
 - <a href="https://johnjoshuaramirez.github.io/memory-card/">memory-card</a>
-- <a href="https://johnjoshuaramirez.github.io/sign-up-form/">memory-card</a>
+- <a href="https://johnjoshuaramirez.github.io/sign-up-form/">sign-up-form</a>
 
 
 
