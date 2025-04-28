@@ -13,6 +13,7 @@
 #### FEATURED
 
 - <a href="https://vogue-ijwh.onrender.com/">vogue-ecommerce</a>
+- <a href="https://twitter-clone-psi-tan.vercel.app/">chirp-social-media</a>
 - <a href="https://johnjoshuaramirez.github.io/rock-paper-scissors/">rock-paper-scissors</a>
 - <a href="https://johnjoshuaramirez.github.io/etch-a-sketch/">etch-a-sketch</a>
 - <a href="https://johnjoshuaramirez.github.io/tic-tac-toe/">tic-tac-toe</a>
