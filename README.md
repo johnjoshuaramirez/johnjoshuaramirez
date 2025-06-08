@@ -15,4 +15,4 @@
 
 
 ### Contact
-`[johnjoshuaramirez.official@gmail.com]`(mailto:johnjoshuaramirez.official@gmail.com)
+`[johnjoshuaramirez.official@gmail.com](mailto:johnjoshuaramirez.official@gmail.com)`
