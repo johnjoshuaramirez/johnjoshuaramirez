@@ -11,7 +11,7 @@
 `MongoDB` `MySQL` `PostgreSQL` `MSSQL`
 
 ### Software Tools
-`Visual Studio` `Visual Studio Code` `Eclipse` `IntelliJ` `Postman` `Swagger` `NuGet`
+`Visual Studio` `Visual Studio Code` `Eclipse` `IntelliJ` `Postman` `Swagger`
 
 ### Contact
 [johnjoshuaramirez.official@gmail.com](mailto:johnjoshuaramirez.official@gmail.com)
