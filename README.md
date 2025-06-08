@@ -8,7 +8,7 @@
 `.NET`  `.NET Core Identity` `Entity Framework` `Spring Boot` `Spring Security` `Hibernate`
 
 ### Databases
-`MongoDB` `MySQL` `PostgresSQL` `MSSQL`
+`MongoDB` `MySQL` `PostgreSQL` `MSSQL`
 
 ### Software Tools
 `Visual Studio` `Visual Studio Code` `Eclipse` `IntelliJ` `Postman` `Swagger`
