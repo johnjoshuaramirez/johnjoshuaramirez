@@ -4,7 +4,7 @@
 
 [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
 
- [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) 
+ [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) [![Maven](https://custom-icon-badges.demolab.com/badge/Maven-%23C71A36.svg?logo=apachemaven&logoColor=white)](#)
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![.NET Identity](https://custom-icon-badges.demolab.com/badge/.NET%20Identity-%23512BD4.svg?logo=dotnet&logoColor=white)](#) [![Entity Framework](https://custom-icon-badges.demolab.com/badge/Entity%20Framework-%23512BD4.svg?logo=dotnet&logoColor=white)](#)
 
