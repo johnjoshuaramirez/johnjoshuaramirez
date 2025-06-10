@@ -6,7 +6,7 @@
 
  [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) 
 
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![.NET Identity](https://custom-icon-badges.demolab.com/badge/.NET%20Identity-%23512BD4.svg?logo=dotnet&logoColor=white)](#) [![Entity Framework](https://custom-icon-badges.demolab.com/badge/Entity%20Framework-%23512BD4.svg?logo=dotnet&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![.NET Identity](https://custom-icon-badges.demolab.com/badge/.NET%20Identity-%23512BD4.svg?logo=dotnet&logoColor=white)](#) [![Entity Framework](https://custom-icon-badges.demolab.com/badge/Entity%20Framework-%23512BD4.svg?logo=dotnet&logoColor=white)](#) [![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white)](#)
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) [![Spring Security](https://custom-icon-badges.demolab.com/badge/Spring%20Security-%236DB33F.svg?logo=springsecurity&logoColor=white)](#) [![Spring Data JPA](https://custom-icon-badges.demolab.com/badge/Spring%20Data%20JPA-%236DB33F.svg?logo=spring&logoColor=white)](#) [![Hibernate](https://custom-icon-badges.demolab.com/badge/Hibernate-%23BCB894.svg?logo=hibernate&logoColor=black)](#) [![Maven](https://custom-icon-badges.demolab.com/badge/Maven-%23C71A36.svg?logo=apachemaven&logoColor=white)](#)
 
